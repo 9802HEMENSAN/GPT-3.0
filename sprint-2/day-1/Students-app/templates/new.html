@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+   <body>
+   
+      <h3>Students - Flask SQLAlchemy example</h3>
+      <hr/>
+      
+      {%- for category, message in get_flashed_messages(with_categories = true) %}
+         <div class = "alert alert-danger">
+            {{ message }}
+         </div>
+      {%- endfor %}
+      
+      <form id="studentForm">
+         <label for="name">Name</label><br>
+         <input type="text" name="name" placeholder="Name" /><br>
+         <label for="email">City</label><br>
+         <input type="text" name="city" placeholder="City" /><br>
+         <label for="addr">Address</label><br>
+         <textarea name="addr" placeholder="Address"></textarea><br>
+         <label for="PIN">PIN</label><br>
+         <input type="text" name="pin" placeholder="PIN" /><br>
+         <input type="button" value="Submit" onclick="submitForm()" />
+      </form>
+
+      <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+      <script>
+         function submitForm() {
+            var data = {
+               name: $('input[name="name"]').val(),
+               city: $('input[name="city"]').val(),
+               addr: $('textarea[name="addr"]').val(),
+               pin: $('input[name="pin"]').val()
+            };
+
+            $.ajax({
+               url: '/new',
+               type: 'POST',
+               contentType: 'application/json',
+               data: JSON.stringify(data),
+               success: function(response) {
+                  // Handle the success response here
+                  console.log(response);
+                  // Refresh the page or perform any other action
+                  location.reload();
+               },
+               error: function(error) {
+                  // Handle the error response here
+                  console.log(error);
+               }
+            });
+         }
+      </script>
+      
+   </body>
+</html>

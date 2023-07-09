@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Product List and Order Page</title>
+</head>
+<body>
+  <h1>Product List</h1>
+  <div id="product-list"></div>
+
+  <h1>Order Page</h1>
+  <div id="order-list"></div>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script>
+ 
+    const socket = io();
+
+    // Fetch the list of products and display them
+    fetch('http://localhost:3000/products')
+      .then(response => response.json())
+      .then(products => {
+        const productList = document.getElementById('product-list');
+        products.forEach(product => {
+          const productElement = document.createElement('div');
+          productElement.textContent = `${product.name} - $${product.price}`;
+          productList.appendChild(productElement);
+
+          const addButton = document.createElement('button');
+          addButton.textContent = 'Add to Order';
+          addButton.addEventListener('click', () => {
+            const order = { productId: product.id, productName: product.name, price: product.price };
+            socket.emit('newOrder', order);
+          });
+          productList.appendChild(addButton);
+        });
+      })
+      .catch(error => {
+        console.log('Error fetching products:', error);
+      });
+
+    // Fetch the list of orders and display them
+    fetch('http://localhost:3000/orders')
+      .then(response => response.json())
+      .then(orders => {
+        const orderList = document.getElementById('order-list');
+        orders.forEach(order => {
+          const orderElement = document.createElement('div');
+          orderElement.textContent = `${order.productName} - $${order.price}`;
+          orderList.appendChild(orderElement);
+        });
+      })
+      .catch(error => {
+        console.log('Error fetching orders:', error);
+      });
+
+    socket.on('orders', orders => {
+      const orderList = document.getElementById('order-list');
+      orderList.innerHTML = '';
+
+      orders.forEach(order => {
+        const orderElement = document.createElement('div');
+        orderElement.textContent = `${order.productName} - $${order.price}`;
+        orderList.appendChild(orderElement);
+      });
+    });
+  </script>
+</body>
+</html>
