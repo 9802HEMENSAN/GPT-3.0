@@ -1,0 +1,21 @@
+<div id="app" class="flex items-center justify-center min-h-screen">
+  <div class="flex items-center">
+
+      <button 
+        class="shadow-md hover:shadow-lg bg-red-500 hover:bg-red-600 rounded-md w-10 h-10 text-xl text-white font-bold"
+        (click)="incDec('subtract')"
+      >
+        -
+      </button>
+
+      <span class="m-5 text-2xl font-medium">{{counter}}</span>
+
+      <button 
+        class="shadow-md hover:shadow-lg bg-red-500 hover:bg-red-600 rounded-md w-10 h-10 text-xl text-white font-bold"
+        (click)="incDec('add')"
+      >
+        +
+      </button>
+
+  </div>
+</div>
