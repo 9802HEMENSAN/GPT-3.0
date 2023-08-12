@@ -20,16 +20,7 @@ const MenuProps = {
 };
 
 const names = [
-  'Oliver Hansen',
-  'Van Henry',
-  'April Tucker',
-  'Ralph Hubbard',
-  'Omar Alexander',
-  'Carlos Abbott',
-  'Miriam Wagner',
-  'Bradley Wilkerson',
-  'Virginia Andrews',
-  'Kelly Snyder',
+ 'ethereum', 'dogecoin', 'solana','aave','cosmos','osmosis','compound'
 ];
 
 function getStyles(name, personName, theme) {
@@ -41,20 +32,20 @@ function getStyles(name, personName, theme) {
   };
 }
 
-export default function MultipleSelectChip() {
+export default function MultipleSelectChip({BitCoins, setBitCoins}) {
   const theme = useTheme();
-  const [personName, setPersonName] = React.useState([]);
+  
 
   const handleChange = (event) => {
     const {
       target: { value },
     } = event;
-    setPersonName(
+    setBitCoins(
       // On autofill we get a stringified value.
       typeof value === 'string' ? value.split(',') : value,
     );
   };
-
+ 
   return (
     <div>
       <FormControl sx={{ m: 1, width: "90%" }}>
@@ -63,9 +54,10 @@ export default function MultipleSelectChip() {
           labelId="demo-multiple-chip-label"
           id="demo-multiple-chip"
           multiple
-          value={personName}
+          value={BitCoins}
           onChange={handleChange}
-          input={<OutlinedInput id="select-multiple-chip" label="Chip" />}
+          input=
+          {<OutlinedInput id="select-multiple-chip" label="Chip" />}
           renderValue={(selected) => (
             <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 0.5 }}>
               {selected.map((value) => (
@@ -79,7 +71,7 @@ export default function MultipleSelectChip() {
             <MenuItem
               key={name}
               value={name}
-              style={getStyles(name, personName, theme)}
+              style={getStyles(name, BitCoins , theme)}
             >
               {name}
             </MenuItem>
