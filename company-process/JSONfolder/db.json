@@ -1,0 +1,121 @@
+  {
+    "electronics" : [
+        {
+            "id": 1,
+            "name" : "watch 45",
+            "images" : "https://img.freepik.com/free-vector/smart-watch-realistic-image-black_1284-11873.jpg?size=626&ext=jpg&ga=GA1.1.1118416750.1689006402&semt=ais"
+        },
+        {
+            "id": 2,
+            "name" : "earphone",
+            "images" : "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1118416750.1689006402&semt=ais"
+        },
+        {
+            "id": 3,
+            "name" : "smart watch 24",
+            "images" : "https://img.freepik.com/free-psd/digital-smart-watch-icon-isolated-3d-render-illustration_439185-11924.jpg?size=626&ext=jpg&ga=GA1.2.1118416750.1689006402&semt=ais"
+        },
+        {
+            "id": 4,
+            "name" : "apple smart watch 23",
+            "images" : "https://img.freepik.com/free-vector/realistic-fitness-trackers_23-2148530529.jpg?size=626&ext=jpg&ga=GA1.2.1118416750.1689006402&semt=ais"
+        },
+        {
+            "id": 5,
+            "name" : "apple smart camera 23",
+            "images" : "https://i.pinimg.com/564x/9f/56/d1/9f56d1cc7ea283e479bcd19500156f3d.jpg"
+        },
+        {
+            "id": 6,
+            "name" : "Travelling with teens lens",
+            "images" : "https://i.pinimg.com/564x/57/7e/97/577e97b08c19c99ee4419efd886c4513.jpg"
+        },
+        {
+            "id": 7,
+            "name" : "CCTV Ai camera",
+            "images" : "https://i.pinimg.com/564x/80/ae/80/80ae809eec8873fbd81ad1e47f547835.jpg"
+        },
+        {
+            "id": 8,
+            "name" : "HP laptop",
+            "images" : "https://i.pinimg.com/564x/80/ae/80/80ae809eec8873fbd81ad1e47f547835.jpg"
+        },
+        {
+            "id": 9,
+            "name" : "Fire-Boltt Gladiator 1.96 Biggest Display Smart Watch with Bluetooth Calling, Voice Assistant &123 Sports Modes,",
+            "images" : "https://m.media-amazon.com/images/I/71IqWwSIxwL._AC_UL600_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": 10,
+            "name" : "Fire-Boltt Ninja Call Pro Plus 1.83 Smart Watch with Bluetooth Calling, AI Voice Assistance, 100 Sports Modes IP67 Rating",
+            "images" : "https://m.media-amazon.com/images/I/61S9aVnRZDL._AC_UL600_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": 11,
+            "name" : "Oneplus New Launch: Bullets Z2 ANC",
+            "images" : "https://m.media-amazon.com/images/I/31XKaSyc+IL._AC_UF226,226_FMjpg_.jpg"
+        },
+        {
+            "id": 12,
+            "name" : "Noise best selling headphones",
+            "images" : "https://m.media-amazon.com/images/I/318zBJiSduL._AC_UF226,226_FMjpg_.jpg"
+        },
+        {
+            "id": 13,
+            "name" : "Top Branded Camera Lens Filters & Hoods",
+            "images" : "https://m.media-amazon.com/images/I/51AHKi-1zcL._AC_UF226,226_FMjpg_.jpg"
+        },
+          
+        {
+            "id": 14,
+            "name" : "Xiomi Notebook Pro 120",
+            "images" : "https://images-eu.ssl-images-amazon.com/images/I/71D-xbvtz-L._AC_UL160_SR160,160_.jpg"
+        },
+        {
+            "id": 15,
+            "name" : "Amazon Basics Digital safe with electronic keypad locker for Home , 33L",
+            "images" : "https://m.media-amazon.com/images/I/81Bj9jQ+u5L._AC_UL600_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": 16,
+            "name" : "Amazon Basics Foldable Laptop Table with Cup Holder, Tablet Groove and Mini Drawer (Black)",
+            "images" : "https://m.media-amazon.com/images/I/61Q+pBh+4sL._AC_UL600_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": 17,
+            "name" : "Amazon Basics in-Ear Wired Earphones with in-Line Mic, 10 mm Dual Drivers, Powerful Bass, Noise Reduction",
+            "images" : "https://m.media-amazon.com/images/I/61yP8Gg5p2L._AC_UL600_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": 18,
+            "name" : "Amazon Basics Foldable Laptop Table with Cup Holder, Tablet Groove and Mini Drawer (Black)",
+            "images" : "https://m.media-amazon.com/images/I/51O6d6xZvTL._AC_UL600_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": 19,
+            "name" : "CHICLEW Star Projector Galaxy Night LightCHICLEW Star Projector Galaxy Night LightCHICLEW Star Projector Galaxy Night Light",
+            "images" : "https://m.media-amazon.com/images/I/81L83HvDCOL._AC_SR480,570_.jpg"
+        },
+        {
+            "id": 20,
+            "name" : "EGate i9 Pro-Max, 1080p Native Full HD Projector for Home ",
+            "images" : "https://m.media-amazon.com/images/I/71GU85VOpnL._AC_SR480,570_.jpg"
+        },
+        {
+            "id": 21,
+            "name" : "Echo Dot (3rd Gen) - Smart speaker with Alexa (Black)",
+            "images" : "https://m.media-amazon.com/images/I/61EXU8BuGZL._AC_UL480_QL65_.jpg"
+        },
+        {
+            "id": 22,
+            "name" : "Redmi 80 cm (32 inches) HD Ready Smart LED Fire TV L32R8-FVIN (Black)",
+            "images" : "https://m.media-amazon.com/images/I/819Lw2PE8tL._AC_UL480_QL65_.jpg"
+        },
+        {
+            "id": 23,
+            "name" : "ZEBRONICS HAV01 HDMI to VGA Adapter ",
+            "images" : "https://m.media-amazon.com/images/I/51SqCroHfNL._AC_UL480_QL65_.jpg"
+        }
+          
+    ]
+  }
