@@ -1,0 +1,1404 @@
+.frameChild,
+.gatewayInvestpeHomeChild {
+  position: absolute;
+  top: 146px;
+  left: 0;
+  width: 1920px;
+  height: 969px;
+}
+.frameChild {
+  top: 339px;
+  left: 999px;
+  border-radius: var(--br-16xl);
+  background: linear-gradient(90.9deg, #fec826, #f3a61d);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 178px;
+  height: 57px;
+}
+.image1 {
+  position: absolute;
+  top: 877.29px;
+  left: 2.45px;
+  width: 959.39px;
+  height: 1918.77px;
+  transform: rotate(-90.09deg);
+  transform-origin: 0 0;
+}
+.launchFinancialServices {
+  position: absolute;
+  top: 97px;
+  left: 999px;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  width: 685px;
+}
+.frameInner,
+.rectangleDiv {
+  position: absolute;
+  border-radius: var(--br-31xl);
+  width: 412.82px;
+  height: 560.53px;
+  transform-origin: 0 0;
+}
+.frameInner {
+  top: 638.71px;
+  left: 408px;
+  background: linear-gradient(154.14deg, #74db96, #1df5f4 99.91%);
+  transform: rotate(-14.41deg);
+}
+.rectangleDiv {
+  top: 469px;
+  left: 699.79px;
+  background: linear-gradient(
+    -12.99deg,
+    #c0ceed,
+    #cdbfd3 7.81%,
+    #d100ce 31.77%,
+    #fc583d 44.27%,
+    #e5ccd1 71.35%,
+    #fdd8d0 78.13%,
+    #fa8a77 99.91%
+  );
+  transform: rotate(2.74deg);
+}
+.contactUs {
+  position: absolute;
+  top: 353px;
+  left: 1020px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 274px;
+  left: 1206px;
+  border-radius: 50%;
+  background-color: #777d85;
+  width: 30px;
+  height: 30px;
+}
+.seeOurProducts {
+  position: absolute;
+  top: 271px;
+  left: 999px;
+  font-size: var(--font-size-5xl);
+  text-decoration: underline;
+}
+.chevronDownSvgrepoCom11,
+.vectorIcon {
+  position: absolute;
+  top: 595px;
+  left: 719px;
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+}
+.vectorIcon {
+  height: 1.37%;
+  width: 1.15%;
+  top: 33.44%;
+  right: 35.87%;
+  bottom: 65.19%;
+  left: 62.99%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.comprehensiveApis {
+  color: var(--color-mediumseagreen);
+}
+.elevateYourInvestmentContainer {
+  position: absolute;
+  top: 246px;
+  left: 237px;
+  font-size: var(--font-size-23xl);
+  line-height: 54px;
+  font-weight: 500;
+  font-family: var(--font-gilroy);
+  display: inline-block;
+  width: 716px;
+}
+.forIndia {
+  color: var(--color-gray-500);
+}
+.investmentStackForContainer {
+  position: absolute;
+  top: 74px;
+  left: 237px;
+  font-size: var(--font-size-41xl);
+  display: inline-block;
+  font-family: var(--font-gilroy);
+  width: 569px;
+  color: #f3a61d;
+}
+.mutualFunds,
+.stocks {
+  color: var(--color-black);
+}
+.stocks {
+  position: absolute;
+  top: 779.62px;
+  left: 485px;
+  transform: rotate(-12.66deg);
+  transform-origin: 0 0;
+}
+.mutualFunds {
+  top: 627px;
+  left: 732.22px;
+  transform: rotate(2.19deg);
+}
+.digitalGold,
+.frameChild1,
+.mutualFunds {
+  position: absolute;
+  transform-origin: 0 0;
+}
+.frameChild1 {
+  top: 536px;
+  left: 1075.65px;
+  border-radius: var(--br-31xl);
+  background: linear-gradient(81.72deg, #fec974, #fa8a77 99.91%);
+  width: 412.82px;
+  height: 560.53px;
+  transform: rotate(25.2deg);
+}
+.digitalGold {
+  top: 697px;
+  left: 1064.88px;
+  color: var(--color-black);
+  transform: rotate(23.24deg);
+}
+.ebbce30259c4b43Ac6135c515dIcon {
+  position: absolute;
+  top: 661.51px;
+  left: 458.66px;
+  width: 95.62px;
+  height: 111.78px;
+  object-fit: cover;
+}
+.ebbce30259c4b43Ac6135c515dIcon1,
+.ebbce30259c4b43Ac6135c515dIcon2 {
+  position: absolute;
+  top: 597.97px;
+  left: 1069.47px;
+  width: 106.69px;
+  height: 117.84px;
+  object-fit: cover;
+}
+.ebbce30259c4b43Ac6135c515dIcon2 {
+  top: 520.77px;
+  left: 732.48px;
+  width: 78.67px;
+  height: 100.24px;
+}
+.index1,
+.index2,
+.rectangleParent {
+  position: absolute;
+  top: 598px;
+  left: -359px;
+  width: 1365.33px;
+  height: 49.33px;
+  overflow: hidden;
+}
+.index2,
+.rectangleParent {
+  top: 359px;
+  left: -442px;
+}
+.rectangleParent {
+  top: 188px;
+  left: 0;
+  width: 1921px;
+  height: 851px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-gray-500);
+  font-family: var(--font-inter);
+}
+.gatewayInvestpeHomeItem {
+  position: absolute;
+  top: 1638px;
+  left: 231px;
+  border-radius: var(--br-16xl);
+  background: linear-gradient(90.9deg, #fec826, #f3a61d);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 178px;
+  height: 57px;
+}
+.gatewayInvestpeHomeInner {
+  position: absolute;
+  top: 55px;
+  left: 0;
+  background-color: var(--color-gray-500);
+  width: 1920px;
+  height: 120px;
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 0.58%;
+  width: 1.15%;
+  top: 5.34%;
+  right: 24.64%;
+  bottom: 94.09%;
+  left: 74.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.investpe01121 {
+  position: absolute;
+  top: 72px;
+  left: 181px;
+  width: 318px;
+  height: 91px;
+  object-fit: cover;
+}
+.gatewayInvestpeHomeChild1 {
+  position: absolute;
+  top: 89px;
+  left: 466px;
+  border-radius: var(--br-16xl);
+  background-color: #fdecec;
+  width: 178px;
+  height: 57px;
+}
+.gateway {
+  position: absolute;
+  top: 103px;
+  left: 487px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-tomato);
+}
+.gatewayInvestpeHomeChild2 {
+  position: absolute;
+  top: 106px;
+  left: 607px;
+  border-radius: 50%;
+  background-color: var(--color-tomato);
+  width: 23px;
+  height: 23px;
+}
+.aboutus,
+.products {
+  position: absolute;
+  top: 96px;
+  left: 1533px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+}
+.products {
+  left: 1286px;
+}
+.screenshot20230820At125 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 54px;
+  object-fit: cover;
+}
+.features,
+.launchTheMost {
+  position: absolute;
+  left: 231px;
+}
+.features {
+  top: 1223px;
+  color: var(--color-mediumseagreen);
+}
+.launchTheMost {
+  top: 1277px;
+  font-size: var(--font-size-23xl);
+  line-height: 52px;
+  display: inline-block;
+  width: 574px;
+}
+.solution {
+  position: absolute;
+  top: 2603px;
+  left: 216px;
+  color: var(--color-mediumseagreen);
+}
+.stayAheadWith {
+  margin: 0;
+}
+.stayAheadWithContainer,
+.weOfferA {
+  position: absolute;
+  top: 2652px;
+  left: 216px;
+  font-size: var(--font-size-23xl);
+  line-height: 52px;
+  display: inline-block;
+  width: 574px;
+}
+.weOfferA {
+  top: 1405px;
+  left: 231px;
+  font-size: var(--font-size-11xl);
+  line-height: 42px;
+  font-weight: 500;
+  color: var(--color-gray-300);
+  width: 655px;
+}
+.gatewayInvestpeHomeChild3 {
+  position: absolute;
+  top: 1210px;
+  left: 1019px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 267px;
+  height: 257px;
+}
+.gatewayInvestpeHomeChild4,
+.gatewayInvestpeHomeChild5,
+.gatewayInvestpeHomeChild6 {
+  position: absolute;
+  top: 4261px;
+  left: 738px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-darkgray-100);
+  width: 267px;
+  height: 163px;
+}
+.gatewayInvestpeHomeChild5,
+.gatewayInvestpeHomeChild6 {
+  left: 1078px;
+}
+.gatewayInvestpeHomeChild6 {
+  top: 1509px;
+  left: 1019px;
+  background-color: var(--color-whitesmoke-100);
+  height: 257px;
+}
+.gatewayInvestpeHomeChild7,
+.gatewayInvestpeHomeChild8 {
+  position: absolute;
+  top: 1194px;
+  left: 1344px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gray-500);
+  width: 301px;
+  height: 290px;
+}
+.gatewayInvestpeHomeChild8 {
+  top: 1512px;
+  left: 1361px;
+  background-color: var(--color-whitesmoke-100);
+  width: 267px;
+  height: 257px;
+}
+.dataProtectionGuarentees,
+.protection {
+  position: absolute;
+  top: 1241px;
+  left: 1078px;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+  color: var(--color-darkgray-200);
+}
+.dataProtectionGuarentees {
+  top: 1390px;
+  left: 1038px;
+  font-size: var(--font-size-3xl);
+  text-align: center;
+  display: inline-block;
+  width: 228px;
+}
+.flexibility {
+  top: 1530px;
+  left: 1089px;
+  font-size: var(--font-size-11xl);
+}
+.customMadeFor,
+.easiness,
+.flexibility,
+.goToMarketIn {
+  position: absolute;
+  font-weight: 500;
+  color: var(--color-darkgray-200);
+}
+.customMadeFor {
+  top: 1689px;
+  left: 1038px;
+  font-size: var(--font-size-3xl);
+  text-align: center;
+  display: inline-block;
+  width: 228px;
+}
+.easiness,
+.goToMarketIn {
+  top: 1530px;
+  left: 1437px;
+  font-size: var(--font-size-11xl);
+}
+.goToMarketIn {
+  top: 1681px;
+  left: 1381px;
+  font-size: var(--font-size-3xl);
+  text-align: center;
+  display: inline-block;
+  width: 228px;
+}
+.trackAllYour,
+.tracking {
+  position: absolute;
+  top: 1225px;
+  left: 1437px;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+  color: var(--color-white);
+}
+.trackAllYour {
+  top: 1394px;
+  left: 1381px;
+  font-size: var(--font-size-3xl);
+  text-align: center;
+  display: inline-block;
+  width: 228px;
+}
+.getStarted,
+.learnMore {
+  position: absolute;
+  top: 1652px;
+  left: 252px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-gray-500);
+}
+.learnMore {
+  left: 470px;
+  text-decoration: underline;
+}
+.image2Icon {
+  position: absolute;
+  top: 1282px;
+  left: 1099px;
+  width: 99px;
+  height: 99px;
+  object-fit: cover;
+}
+.activitySvgrepoCom1Icon {
+  position: absolute;
+  top: 1243px;
+  left: 1407px;
+  width: 175px;
+  height: 175px;
+  overflow: hidden;
+}
+.fireMinimalisticSvgrepoComIcon,
+.stickSvgrepoCom1Icon {
+  position: absolute;
+  top: 1577px;
+  left: 1094px;
+  width: 104px;
+  height: 104px;
+  overflow: hidden;
+}
+.fireMinimalisticSvgrepoComIcon {
+  top: 1573px;
+  left: 1442px;
+  width: 106px;
+  height: 106px;
+}
+.gatewayInvestpeHomeChild9 {
+  position: absolute;
+  top: 1863px;
+  left: 134px;
+  border-radius: 100px;
+  background-color: var(--color-gray-500);
+  width: 1654px;
+  height: 629px;
+}
+.gatewayInvestpeHomeChild10 {
+  position: absolute;
+  top: 2307px;
+  left: 261px;
+  border-radius: var(--br-16xl);
+  background: linear-gradient(90.9deg, #fec826, #f3a61d);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 251px;
+  height: 57px;
+}
+.tryInvestpeNow {
+  position: absolute;
+  top: 2321px;
+  left: 282px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-gray-500);
+}
+.andAFew,
+.somePartnersWho {
+  position: absolute;
+  top: 3845px;
+  left: 230px;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 480px;
+}
+.andAFew {
+  top: 4273px;
+  width: 446px;
+}
+.image3Icon,
+.image4Icon {
+  position: absolute;
+  top: 4304px;
+  left: 769px;
+  width: 206px;
+  height: 78px;
+  object-fit: cover;
+}
+.image4Icon {
+  top: 4313px;
+  left: 1107px;
+  width: 227px;
+  height: 64px;
+}
+.lineDiv {
+  position: absolute;
+  top: 3752.5px;
+  left: 200.5px;
+  border-top: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 1504.01px;
+  height: 1px;
+}
+.untitled1 {
+  position: absolute;
+  top: 2288px;
+  left: 1078px;
+  width: 710px;
+  height: 185px;
+}
+.drawsPatternSvgrepoCom1Icon,
+.drawsPatternSvgrepoCom2Icon {
+  position: absolute;
+  top: 1863px;
+  left: 1120px;
+  border-radius: 0 var(--br-31xl) var(--br-31xl) 0;
+  width: 626px;
+  height: 622px;
+  overflow: hidden;
+}
+.drawsPatternSvgrepoCom2Icon {
+  top: 1864px;
+  left: 495px;
+}
+.groupIcon {
+  position: absolute;
+  height: 4.02%;
+  width: 16.38%;
+  top: 23.3%;
+  right: 74.82%;
+  bottom: 72.67%;
+  left: 8.8%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image12Icon,
+.image13Icon,
+.image14Icon {
+  position: absolute;
+  top: 3845px;
+  left: 736px;
+  width: 309px;
+  height: 112px;
+  object-fit: cover;
+}
+.image13Icon,
+.image14Icon {
+  top: 3862px;
+  left: 1079px;
+  width: 358px;
+  height: 115px;
+}
+.image14Icon {
+  top: 3873px;
+  left: 1485px;
+  width: 197px;
+  height: 56px;
+}
+.image15Icon,
+.image16Icon,
+.image17Icon {
+  position: absolute;
+  top: 4012px;
+  left: 757px;
+  width: 119px;
+  height: 110px;
+  object-fit: cover;
+}
+.image16Icon,
+.image17Icon {
+  top: 3967px;
+  left: 924px;
+  width: 200px;
+  height: 200px;
+}
+.image17Icon {
+  top: 4051px;
+  left: 1172px;
+  width: 257px;
+  height: 31px;
+}
+.connectYourPlatform,
+.weHelpBrokers {
+  position: absolute;
+  left: 261px;
+  display: inline-block;
+}
+.connectYourPlatform {
+  top: 1984px;
+  font-size: var(--font-size-41xl);
+  line-height: 70px;
+  color: var(--color-white);
+  width: 977px;
+}
+.weHelpBrokers {
+  top: 2155px;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+  color: #cecece;
+  width: 841px;
+}
+.frameChild2,
+.gatewayInvestpeHomeChild11 {
+  position: absolute;
+  top: 2813px;
+  left: 625px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-moccasin);
+  box-sizing: border-box;
+  width: 735px;
+  height: 400px;
+}
+.frameChild2 {
+  top: 0;
+  left: 0;
+  width: 556px;
+}
+.advancedReporting,
+.multiAmcEmpanelments,
+.sebiCompliantKyc,
+.transactTrack {
+  position: absolute;
+  top: 0;
+  left: 35px;
+  line-height: 35px;
+  font-weight: 500;
+  display: inline-block;
+  width: 395px;
+  height: 42px;
+}
+.advancedReporting,
+.multiAmcEmpanelments,
+.transactTrack {
+  top: 50px;
+  left: 33px;
+}
+.advancedReporting,
+.transactTrack {
+  top: 100px;
+  left: 31px;
+  width: 428px;
+}
+.advancedReporting {
+  top: 150px;
+}
+.checkCircleIcon,
+.checkCircleIcon1,
+.checkCircleIcon2,
+.checkCircleIcon3 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  width: 21px;
+  height: 21px;
+  overflow: hidden;
+}
+.checkCircleIcon1,
+.checkCircleIcon2,
+.checkCircleIcon3 {
+  top: 56px;
+}
+.checkCircleIcon2,
+.checkCircleIcon3 {
+  top: 106px;
+}
+.checkCircleIcon3 {
+  top: 156px;
+}
+.sebiCompliantKycProcessParent {
+  position: absolute;
+  top: 171px;
+  left: 50px;
+  width: 459px;
+  height: 192px;
+  color: var(--color-gray-400);
+}
+.mutualFunds1 {
+  position: absolute;
+  top: 35px;
+  left: 52px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+.getTheCompleteContainer {
+  position: absolute;
+  top: 72px;
+  left: 52px;
+  font-size: var(--font-size-11xl);
+}
+.rectangleGroup {
+  position: absolute;
+  top: 3260px;
+  left: 201px;
+  width: 556px;
+  height: 452.76px;
+  color: var(--color-slateblue);
+}
+.dashboardIcon {
+  position: absolute;
+  height: 4.18%;
+  width: 13.5%;
+  top: 45.04%;
+  right: 30.77%;
+  bottom: 50.78%;
+  left: 55.73%;
+  border-radius: 18.33px 18.33px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.gatewayInvestpeHomeChild12 {
+  position: absolute;
+  top: 2813px;
+  left: 201px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-floralwhite);
+  border: 1px solid var(--color-moccasin);
+  box-sizing: border-box;
+  width: 353px;
+  height: 400px;
+}
+.weValueYourPreciousTime {
+  margin: 0;
+  color: var(--color-slateblue);
+}
+.blankLine {
+  margin: 0;
+  font-weight: 500;
+}
+.weValueYourContainer {
+  position: absolute;
+  top: 2875px;
+  left: 655px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 378px;
+  color: var(--color-gray-400);
+}
+.rectangleIcon {
+  position: absolute;
+  top: 3260px;
+  left: 804px;
+  border-radius: var(--br-6xl);
+  width: 525px;
+  height: 400px;
+}
+.image153Icon {
+  position: absolute;
+  top: 2843px;
+  left: 237px;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+}
+.investpe {
+  top: 2989px;
+  left: 242px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+.indianEquity,
+.investpe,
+.oneGatewayFor,
+.whyDoesIt {
+  position: absolute;
+  color: var(--color-slateblue);
+}
+.whyDoesIt {
+  top: 3026px;
+  left: 242px;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  width: 281px;
+}
+.indianEquity,
+.oneGatewayFor {
+  left: 845px;
+}
+.indianEquity {
+  top: 3287px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+.oneGatewayFor {
+  top: 3324px;
+  font-size: var(--font-size-11xl);
+}
+.frameChild3 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-floralwhite);
+  border: 1px solid var(--color-moccasin);
+  box-sizing: border-box;
+  width: 353px;
+  height: 846px;
+}
+.fixedDeposits {
+  position: absolute;
+  top: 130px;
+  left: 41px;
+  font-weight: 500;
+}
+.fullyDigitalFds,
+.offerFixedDeposits {
+  position: absolute;
+  top: 174px;
+  left: 41px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 255px;
+}
+.offerFixedDeposits {
+  top: 263px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  width: 271px;
+}
+.ac60dcf7d1b43529fc657d6b94Icon {
+  position: absolute;
+  top: 46px;
+  left: 41px;
+  width: 64px;
+  height: 64px;
+  overflow: hidden;
+}
+.screenshot20230820At452 {
+  position: absolute;
+  top: 378px;
+  left: 19px;
+  width: 310px;
+  height: 601px;
+  object-fit: cover;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 2812px;
+  left: 1400px;
+  width: 353px;
+  height: 848px;
+  overflow: hidden;
+  font-size: var(--font-size-xl);
+  color: var(--color-slateblue);
+}
+.enableStocksEtfs,
+.integratesWithAll,
+.offerExpertCurated {
+  position: absolute;
+  top: 3545px;
+  left: 891px;
+  font-weight: 500;
+  color: var(--color-gray-400);
+  display: inline-block;
+  width: 412px;
+}
+.enableStocksEtfs,
+.integratesWithAll {
+  top: 3481px;
+}
+.enableStocksEtfs {
+  top: 3393px;
+  width: 377px;
+}
+.checkCircleIcon4,
+.checkCircleIcon5,
+.checkCircleIcon6 {
+  position: absolute;
+  top: 3415px;
+  left: 845px;
+  width: 21px;
+  height: 21px;
+  overflow: hidden;
+}
+.checkCircleIcon5,
+.checkCircleIcon6 {
+  top: 3485px;
+}
+.checkCircleIcon6 {
+  height: 0.26%;
+  width: 1.09%;
+  top: 44.07%;
+  right: 54.9%;
+  bottom: 55.67%;
+  left: 44.01%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frameChild4 {
+  position: absolute;
+  top: 4px;
+  left: 5px;
+  border-radius: var(--br-31xl);
+  background: linear-gradient(180deg, #fec175, #fb9077);
+  width: 1538px;
+  height: 928px;
+}
+.frameChild5 {
+  position: absolute;
+  top: 716px;
+  left: 1313px;
+  border-radius: var(--br-16xl);
+  background: linear-gradient(90.9deg, #171e27, #171e27);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 137px;
+  height: 57px;
+}
+.submit {
+  position: absolute;
+  top: 730px;
+  left: 1339px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+}
+.frameChild6,
+.howWouldYou {
+  position: absolute;
+  left: 84px;
+}
+.howWouldYou {
+  top: 92px;
+  font-size: var(--font-size-23xl);
+  line-height: 35px;
+  color: var(--color-black);
+}
+.frameChild6 {
+  top: 326px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 488px;
+  height: 75px;
+}
+.abcxyzcom,
+.whichProductsAre,
+.workEmail {
+  position: absolute;
+  line-height: 35px;
+  font-weight: 500;
+}
+.abcxyzcom {
+  top: 344px;
+  left: 117px;
+  font-size: var(--font-size-23xl);
+  color: #8b8b8b;
+}
+.whichProductsAre,
+.workEmail {
+  top: 290px;
+  left: 84px;
+}
+.whichProductsAre {
+  top: 291px;
+  left: 759px;
+}
+.frameChild7 {
+  position: absolute;
+  top: 500px;
+  left: 84px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 488px;
+  height: 75px;
+}
+.frameChild10,
+.frameChild11,
+.frameChild8,
+.frameChild9 {
+  position: absolute;
+  top: 338px;
+  left: 759px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  width: 223px;
+  height: 153px;
+}
+.frameChild10,
+.frameChild11,
+.frameChild9 {
+  left: 1005px;
+}
+.frameChild10,
+.frameChild11 {
+  top: 512px;
+  left: 759px;
+}
+.frameChild11 {
+  top: 338px;
+  left: 1248px;
+}
+.companyName {
+  position: absolute;
+  top: 464px;
+  left: 84px;
+  line-height: 35px;
+  font-weight: 500;
+}
+.frameChild12 {
+  position: absolute;
+  top: 678px;
+  left: 84px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 488px;
+  height: 75px;
+}
+.mobileNumber,
+.tellUsMore {
+  position: absolute;
+  top: 642px;
+  left: 84px;
+  line-height: 35px;
+  font-weight: 500;
+}
+.tellUsMore {
+  top: 153px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 523px;
+}
+.ac60dcf7d1b43529fc657d6b94Icon1 {
+  position: absolute;
+  height: 6.87%;
+  width: 4.12%;
+  top: 62.85%;
+  right: 37.68%;
+  bottom: 30.28%;
+  left: 58.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.b702430320041faAac59631b27Icon,
+.eae62d81e1a41fbB21f53cc428Icon,
+.ec6a7d5Af154f4c9837299a2c1Icon {
+  position: absolute;
+  height: 6.87%;
+  width: 4.12%;
+  top: 44.86%;
+  right: 37.36%;
+  bottom: 48.28%;
+  left: 58.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.b702430320041faAac59631b27Icon,
+.eae62d81e1a41fbB21f53cc428Icon {
+  top: 43.87%;
+  right: 21.03%;
+  bottom: 49.26%;
+  left: 74.86%;
+}
+.eae62d81e1a41fbB21f53cc428Icon {
+  top: 44.24%;
+  right: 5.4%;
+  bottom: 48.89%;
+  left: 90.48%;
+}
+.frameDiv {
+  position: absolute;
+  top: 4569px;
+  left: 186px;
+  width: 1555px;
+  height: 946px;
+  overflow: hidden;
+  color: var(--color-darkslategray);
+}
+.mutualFunds2 {
+  position: absolute;
+  top: 4934px;
+  left: 966px;
+  font-weight: 500;
+}
+.e2eInfrastructureFor {
+  position: absolute;
+  top: 4970px;
+  left: 966px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 149px;
+}
+.indianEquity1 {
+  position: absolute;
+  top: 4932px;
+  left: 1215px;
+  font-weight: 500;
+}
+.stockGatewayContainer {
+  position: absolute;
+  top: 4968px;
+  left: 1215px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 149px;
+}
+.buySell,
+.digitalGold1 {
+  position: absolute;
+  left: 1463px;
+}
+.digitalGold1 {
+  top: 4931px;
+  font-weight: 500;
+}
+.buySell {
+  top: 4967px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 149px;
+}
+.fixedDeposits1 {
+  position: absolute;
+  top: 5107px;
+  left: 967px;
+  font-weight: 500;
+}
+.bookFdsInContainer {
+  position: absolute;
+  top: 5141px;
+  left: 966px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 149px;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-500);
+  width: 1920px;
+  height: 830px;
+}
+.contactUs1 {
+  position: absolute;
+  top: 192.46px;
+  left: 130.67px;
+  letter-spacing: -0.29px;
+  line-height: 27px;
+  display: flex;
+  color: #f6f6f6;
+  align-items: center;
+  width: 136px;
+  height: 29.94px;
+}
+.div {
+  top: 230px;
+  left: 131px;
+  font-weight: 300;
+  width: 145.33px;
+  height: 37.7px;
+}
+.company,
+.contactchhotastockcom,
+.div,
+.quickLinks {
+  position: absolute;
+  letter-spacing: -0.29px;
+  line-height: 27px;
+  display: flex;
+  align-items: center;
+}
+.contactchhotastockcom {
+  top: 262.7px;
+  left: 130.33px;
+  font-weight: 300;
+  width: 286.67px;
+  height: 27.72px;
+}
+.company,
+.quickLinks {
+  top: 192px;
+  left: 545px;
+  font-size: var(--font-size-xl);
+  width: 121.33px;
+  height: 34.37px;
+}
+.quickLinks {
+  left: 960px;
+  width: 152px;
+  height: 42.13px;
+}
+.aboutUsPrivacyContainer1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.aboutUsPrivacyContainer,
+.homeGatewayBlogContainer {
+  position: absolute;
+  top: 221px;
+  left: 545px;
+  letter-spacing: -0.29px;
+  line-height: 27px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  width: 268px;
+  height: 109.77px;
+}
+.homeGatewayBlogContainer {
+  top: 222px;
+  left: 963px;
+  height: 114.2px;
+}
+.facebookLogoIconFileFacebo,
+.pxInstagramIcon2 {
+  position: absolute;
+  top: 390.93px;
+  left: 301.33px;
+  width: 41.33px;
+  height: 35.48px;
+  object-fit: cover;
+}
+.facebookLogoIconFileFacebo {
+  top: 392.04px;
+  left: 132px;
+  width: 40px;
+  height: 33.26px;
+}
+.twitterLogoVectorPngCliparIcon,
+.youtubeLogoIcone2 {
+  position: absolute;
+  top: 384.27px;
+  left: 208px;
+  width: 57.33px;
+  height: 47.68px;
+  object-fit: cover;
+}
+.twitterLogoVectorPngCliparIcon {
+  left: 380px;
+  width: 58.67px;
+  height: 48.79px;
+}
+.chhotastockTechnologiesPrivaContainer,
+.findUsOn {
+  position: absolute;
+  letter-spacing: -0.29px;
+  display: flex;
+  align-items: center;
+}
+.findUsOn {
+  top: 338.81px;
+  left: 133.33px;
+  font-size: var(--font-size-xl);
+  line-height: 38px;
+  width: 137.33px;
+  height: 32.15px;
+}
+.chhotastockTechnologiesPrivaContainer {
+  top: 473px;
+  left: 130px;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 300;
+  width: 1648px;
+  height: 259.45px;
+}
+.groupIcon1 {
+  position: absolute;
+  height: 62.05%;
+  width: 65.57%;
+  top: 37.95%;
+  right: 34.43%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.downloadTheApp {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.29px;
+  line-height: 38px;
+  display: flex;
+  align-items: center;
+  width: 314.67px;
+  height: 16.63px;
+}
+.groupParent {
+  position: absolute;
+  height: 12.38%;
+  width: 16.39%;
+  top: 25.18%;
+  right: 16.58%;
+  bottom: 62.44%;
+  left: 67.03%;
+  font-size: var(--font-size-xl);
+}
+.investpe011211 {
+  position: absolute;
+  top: 50px;
+  left: 78px;
+  width: 318px;
+  height: 91px;
+  object-fit: cover;
+}
+.groupDiv {
+  position: absolute;
+  top: 5696px;
+  left: 0;
+  width: 1920px;
+  height: 830px;
+  font-size: var(--font-size-lg);
+  color: var(--text-2);
+}
+.vectorIcon2 {
+  position: absolute;
+  height: 0.18%;
+  width: 1.15%;
+  top: 1.67%;
+  right: 24.58%;
+  bottom: 98.15%;
+  left: 74.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.gatewayInvestpeHome {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 6526px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-gilroy);
+}

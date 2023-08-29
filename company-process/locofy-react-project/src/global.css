@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gilroy:wght@300;400;500;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-gilroy: Gilroy;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-lg: 18px;
+  --font-size-5xl: 24px;
+  --font-size-11xl: 30px;
+  --font-size-23xl: 42px;
+  --font-size-17xl: 36px;
+  --font-size-41xl: 60px;
+  --font-size-3xl: 22px;
+  --font-size-29xl: 48px;
+
+  /* Colors */
+  --color-white: #fff;
+  --text-2: #d9d9d9;
+  --color-whitesmoke-100: #f3f3f3;
+  --color-gray-100: #fafcfd;
+  --color-gray-200: #888;
+  --color-gray-300: #777;
+  --color-gray-400: #1c1e21;
+  --color-gray-500: #171e27;
+  --color-black: #000;
+  --color-darkslategray: #474747;
+  --color-slateblue: #7c59cf;
+  --color-floralwhite: #fef8ec;
+  --color-moccasin: #fde3af;
+  --color-darkgray-100: #b1b1b1;
+  --color-darkgray-200: #979797;
+  --color-mediumseagreen: #28b570;
+  --color-tomato: #f05656;
+
+  /* border radiuses */
+  --br-xl: 20px;
+  --br-6xl: 25px;
+  --br-16xl: 35px;
+  --br-31xl: 50px;
+  --br-lg-3: 18.3px;
+}
