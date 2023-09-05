@@ -17,3 +17,6 @@ I also possess a strong understanding of version control systems like Git. You c
 These projects showcase my proficiency in the MERN stack and encompass various features such as user registration and login systems, product browsing, and video streaming. I have deployed these applications on platforms like Vercel and Netlify for accessibility.
 
 I am confident that my skills, work ethic, and dedication to learning would enable me to make a valuable contribution to your company. I thrive in collaborative environments and am always eager to support my teammates. If you have any further questions or require additional information, please don't hesitate to reach out. Thank you for considering my portfolio.
+
+
+
