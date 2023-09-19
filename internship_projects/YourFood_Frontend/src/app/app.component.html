@@ -1,0 +1,63 @@
+
+
+ <nav  class="navbar">
+  <div style=" margin-left:2%;" class="navbar-content">
+    <a class="navbar-brand" href="#" routerLink="/" routerLinkActive="active">
+      <span style="margin-left: 5%;" class="logo">𝓨𝓸𝓾𝓻𝓕𝓸𝓸𝓭</span>
+    </a>
+    <button class="navbar-toggler" (click)="toggleNavbar()">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <div class="navbar-links" [class.open]="isNavbarOpen">
+      <div class="navbar-links-container">
+        <ng-container *ngIf="isLoggedIn; else loginLinks">
+       
+          <span class="nav-link username" *ngIf="username$ | async as username">{{ username.charAt(0).toUpperCase() + username.slice(1) }}</span>
+        <button class="nav-button logout" (click)="logout()">Logout</button>
+
+        </ng-container>
+
+
+
+        <ng-template #loginLinks>
+          <button class="nav-button signup-button" routerLink="/signup" routerLinkActive="active" (click)="closeNavbar()">Sign up</button>
+          <button class="nav-button login-button" routerLink="/login" routerLinkActive="active" (click)="closeNavbar()">Log in</button>
+        
+        </ng-template>
+       
+        
+        <!-- <button class="nav-button place-order-button" [routerLink]="isLoggedIn ? '/user' : '/login'" routerLinkActive="active" (click)="closeNavbar()">Menu</button>
+         -->
+         <button class="nav-button place-order-button" routerLink= "/user" routerLinkActive="active" (click)="closeNavbar()">Menu</button>
+        <button class="nav-button availability-button" routerLink="/map" routerLinkActive="active" (click)="closeNavbar()">Availability</button>
+        <button  class="nav-button chat-button" routerLink="/chat" routerLinkActive="active" (click)="closeNavbar()">Chat</button>
+        <button class="nav-button contact-button" routerLink="/contact" routerLinkActive="active" (click)="closeNavbar()">Contact</button>
+        <!-- <button class="nav-button bag-button" routerLink="/bag" routerLinkActive="active" (click)="closeNavbar()">Bag</button> -->
+        <button class="nav-button bag-button" [routerLink]="isLoggedIn ? '/bag' : '/login'" routerLinkActive="active" (click)="closeNavbar()">Bag</button>
+
+        <!-- <button  class="nav-button profile-button" [routerLink]="isLoggedIn ? '/orderdetails' : '/login'" routerLinkActive="active" (click)="closeNavbar()">My Order</button> -->
+        <button class="nav-button myorder-button" [routerLink]="isLoggedIn ? '/myorder' : '/login' " routerLinkActive="active" (click)="closeNavbar()">My Order</button>
+
+       
+        <!-- <button  class="nav-button profile-button" [routerLink]="isLoggedIn ? '/profile' : '/login'" routerLinkActive="active" (click)="closeNavbar()">Profile <i class="fas fa-user"></i></button>
+      -->
+
+
+
+      <button class="nav-button profile-button" *ngIf="isAdmin" [routerLink]="isLoggedIn ? '/admin' : '/login'" routerLinkActive="active" (click)="closeNavbar()">Admin</button>
+        <button class="nav-button profile-button" *ngIf="!isAdmin" [routerLink]="isLoggedIn ? '/profile' : '/login'" routerLinkActive="active" (click)="closeNavbar()">Profile <i class="fas fa-user"></i></button>
+        
+     
+      </div>
+     
+    </div>
+    
+   
+  </div>
+ 
+</nav>
+
+<router-outlet></router-outlet>
+

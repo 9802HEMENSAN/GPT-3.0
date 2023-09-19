@@ -1,0 +1,78 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Dhokla",
+        "price": 100,
+        "quantity": 10
+      },
+      {
+        "id": 2,
+        "name": "Thaali",
+        "price": 100,
+        "quantity": 10
+      },
+      {
+        "id": 3,
+        "name": "Pulao",
+        "price": 100,
+        "quantity": 10
+      },
+      {
+        "id": 4,
+        "name": "Paneer",
+        "price": 100,
+        "quantity": 10
+      },
+      {
+        "id": 5,
+        "name": "Rice",
+        "price": 100,
+        "quantity": 10
+      },
+      {
+        "id": 6,
+        "name": "Noodle",
+        "price": 100,
+        "quantity": 10
+      }
+    ],
+    "bag": [
+        {
+          "id": 1,
+          "name": "Dhokla",
+          "price": 100,
+          "quantity": 10
+        },
+        {
+          "id": 2,
+          "name": "Thaali",
+          "price": 100,
+          "quantity": 10
+        },
+        {
+          "id": 3,
+          "name": "Pulao",
+          "price": 100,
+          "quantity": 10
+        },
+        {
+          "id": 4,
+          "name": "Paneer",
+          "price": 100,
+          "quantity": 10
+        },
+        {
+          "id": 5,
+          "name": "Rice",
+          "price": 100,
+          "quantity": 10
+        },
+        {
+          "id": 6,
+          "name": "Noodle",
+          "price": 100,
+          "quantity": 10
+        }
+      ]
+  }
