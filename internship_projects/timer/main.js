@@ -1,3 +1,4 @@
+// https://freshman.tech/pomodoro-timer/
 const timer = {
     pomodoro: 25,
     shortBreak: 5,
