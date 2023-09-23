@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1676290080_5322405.jpg?format=webp&w=300&dpr=1.3",
+      "Product_Name": "Men's Casual Shirt",
+      "Product_Description": "A comfortable and stylish shirt for everyday wear.",
+      "Gender": "Female",
+      "Category": "Clothing",
+      "Price": 29.99
+    },
+    {
+      "id": 2,
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1665465984_5970893.jpg?format=webp&w=300&dpr=1.3",
+      "Product_Name": "Women's Running Shoes",
+      "Product_Description": "High-performance running shoes for women.",
+      "Gender": "Female",
+      "Category": "Footwear",
+      "Price": "60"
+    },
+    {
+      "id": 3,
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1676900626_9402475.jpg?format=webp&w=300&dpr=1.3",
+      "Product_Name": "Unisex Sunglasses",
+      "Product_Description": "UV protection sunglasses suitable for all genders.",
+      "Gender": "Male",
+      "Category": "Accessories",
+      "Price": 19.99
+    },
+    {
+      "id": 4,
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1653906350_2837341.jpg?format=webp&w=300&dpr=1.3",
+      "Product_Name": "Kids' Backpack",
+      "Product_Description": "A colorful and durable backpack for kids.",
+      "Gender": "Male",
+      "Category": "Bags",
+      "Price": 24.99
+    }
+  ]
+}
